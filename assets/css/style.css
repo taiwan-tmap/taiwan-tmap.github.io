@@ -1058,7 +1058,7 @@ section {
   position: absolute;
   height: 300px;
   width: 100%;
-  top: 50vh-150px;
+  top: 50%-150px;
   backdrop-filter: blur(7px);
 }
 
